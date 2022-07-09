@@ -1,0 +1,19 @@
+.quote-text {
+  font-size: 1.75em;
+  font-weight: 500;
+  width: 100%;
+  height: auto;
+  clear: both;
+  text-align: center;
+  
+}
+
+.author {
+  width: 100%;
+  height: auto;
+  clear: both;
+  font-size: 1em;
+  font-weight: 400;
+  text-align: right;
+  padding-top: 20px;
+}

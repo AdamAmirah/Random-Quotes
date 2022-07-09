@@ -1,0 +1,15 @@
+.quote {
+  background-color: #fff;
+  width: 450px;
+  border-radius: 3px;
+  position: relative;
+  padding: 40px 50px;
+  display: table;
+ animation: pop 0.3s linear 1;
+}
+@keyframes pop{
+  50%  {transform: scale(1.2);}
+}
+body {
+  background-color: #77b1a9;
+}
